@@ -1,0 +1,10 @@
+{
+  "name": "vitetheme",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vite"
+  },
+  "dependencies": {
+    "vite": "^2.4.4"
+  }
+}
