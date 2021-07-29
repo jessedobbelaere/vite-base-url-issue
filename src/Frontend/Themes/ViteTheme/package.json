@@ -5,6 +5,6 @@
     "dev": "vite"
   },
   "dependencies": {
-    "vite": "^2.4.4"
+    "vite": "^2.3.8"
   }
 }
